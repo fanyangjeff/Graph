@@ -144,7 +144,7 @@ int main(int argc, const char * argv[]) {
       graph.shortestPath(obj1, obj2);
     
     
-     cout<<endl<<endl;
+    cout<<endl;
     
     
      graph.cheapestPath(obj1, obj2);
